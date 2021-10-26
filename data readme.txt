@@ -71,3 +71,33 @@ Email:info@stats.govt.nz
 	
 
 ==========================================
+Estimated Resident Population for Regional Council Areas, at 30 June (1996+) (Annual-Jun)						
+
+
+Footnotes:			
+New Zealand comprises the North Island and South Island regions plus areas not included in a region (eg Chatham Islands Territory).			
+Population estimates after 30 June 2013 have been revised to incorporate results from the 2018 Census and 2018 Post-enumeration survey.			
+All population estimates at 30 June 2018 and beyond use the 2018-base ERP.			
+Estimates flagged as provisional are subject to revision, mainly to incorporate revisions to external (international) migration estimates.			
+Boundaries at 1 January 2020.			
+ 			
+Symbols:			
+.. figure not available			
+C: Confidential			
+E: Early Estimate			
+P: Provisional			
+R: Revised			
+S: Suppressed			
+			
+Status flags are not displayed			
+			
+Table reference: 			
+DPE051AA			
+			
+Last updated:			
+22 October 2020 10:45am			
+			
+Source: Statistics New Zealand			
+Contact: Information Centre			
+Telephone: 0508 525 525			
+Email:info@stats.govt.nz			
